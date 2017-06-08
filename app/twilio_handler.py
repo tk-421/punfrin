@@ -20,4 +20,4 @@ def send_pun():
         to=config.RECIPIENT_NUM,
         from_="+16237380645",
         body=pun)
-    return render_template("home.html")
+    # return render_template("home.html")

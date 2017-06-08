@@ -13,7 +13,7 @@ def hello_world():
 @app.route('/pun/', methods=['GET', 'POST'])
 def do_pun():
     twilio_handler.send_pun()
-    return redirect("/")
+    return ('', 204)
 
 if __name__ == "__main__":
     port = int(os.environ.get('PORT', 5000))

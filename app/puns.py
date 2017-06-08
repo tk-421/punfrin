@@ -89,7 +89,77 @@ puns = {
 
     '44' : "The rotation of earth really makes my day.",
 
-    '45' : "I used to work in a shoe recycling shop. It was sole destroying."
+    '45' : "I used to work in a shoe recycling shop. It was sole destroying.",
+
+    '46' : "Show me a piano falling down a mineshaft and I'll show you A-flat minor.",
+
+    '47' : "To write with a broken pencil is pointless.",
+
+    '48' : "Those who get too big for their britches will be exposed in the end.",
+
+    '49' : "When a clock is hungry it goes back four seconds.",
+
+    '50' : "A chicken crossing the road is poultry in motion.",
+
+    '51' : "What's the definition of a will? It's a dead giveaway.",
+
+    '52' : "The man who fell into an upholstery machine is fully recovered.",
+
+    '53' : "Bakers trade bread recipes on a knead to know basis.",
+
+    '54' : "He wears glasses during math because it improves division.",
+
+    '55' : " She was only a whisky maker but he loved her still.",
+
+    '56' : "She had a boyfriend with a wooden leg, but broke it off.",
+
+    '57' : "Those who jump off a Paris bridge are in Seine.",
+
+    '58' : "It wasn't school John disliked it was just the principal of it.",
+
+    '59' : "There was once a cross-eyed teacher who couldn't control his pupils.",
+
+    '60' : "A boiled egg in the morning is hard to beat.",
+
+    '61' : "The short fortune-teller who escaped from prison was a small medium at large",
+
+    '62' : "Some Spanish government employees are Seville servants.",
+
+    '63' : "When cannibals ate a missionary they got a taste of religion.",
+
+    '64' : "Marathon runners with bad footwear suffer the agony of defeat.",
+
+    '65' : "In democracy its your vote that counts. In feudalism its your count that votes.",
+
+    '66' : "It was an emotional wedding. Even the cake was in tiers.",
+
+    '67' : "Local Area Network in Australia: the LAN down under.",
+
+    '68' : "An office with many people and few electrical outlets could be in for a power struggle.",
+
+    '69' : "Ancient orators tended to Babylon.",
+
+    '70' : "You feel stuck with your debt if you can't budge it.",
+
+    '71' : "A backwards poet writes inverse.",
+
+    '72' : "When the smog lifts in Los Angeles, U C L A.",
+
+    '73' : "A plateau is a high form of flattery.",
+
+    '74' : "Seven days without a pun makes one weak.",
+
+    '75' : "A toothless termite walked into a tavern and said, 'Is the bar tender here?'",
+
+    '77' : "Santa's helpers are subordinate clauses.",
+
+    '78' : "Two banks with different rates have a conflict of interest.",
+
+    '79' : "When a new hive is done bees have a house swarming party.",
+
+    '80' : " Looting a drugstore is called Pillaging",
+
+    '81' : "A music store had a small sign which read: Bach in a Minuet."
 
     }
 
