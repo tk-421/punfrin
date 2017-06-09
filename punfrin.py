@@ -12,7 +12,7 @@ def hello_world():
 
 @app.route('/pun/', methods=['GET', 'POST'])
 def do_pun():
-    twilio_handler.send_pun()
+    pun = twilio_handler.send_pun()
     return ('', 204)
 
 if __name__ == "__main__":

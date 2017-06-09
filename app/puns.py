@@ -163,8 +163,15 @@ puns = {
 
     }
 
+sent_puns = []
+
 def generate_random_pun():
+    if len(sent_puns) == len(puns):
+        sent_puns[:] = []
     pun = random.choice(list(puns))
+    if pun in sent_puns:
+        generate_random_pun()
     rv = puns[pun]
     rv.encode('ascii')
+    sent_puns.append(pun)
     return rv

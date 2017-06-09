@@ -44,7 +44,7 @@
               <div class="intro-lead-in">Then good news!</div>
               <div class="intro-lead-in"> With the click of a button you can hit that smug bastard back with his own medicine</div>
               <form action ="{{url_for('.do_pun')}}">
-                <button class="page-scroll btn btn-xl" id="submit_pun">Click Here to Fight Back</button>
+                <button class="page-scroll btn btn-xl" id="submit_pun" onclick="show_pun()">Click Here to Fight Back</button>
               </form>
           </div>
       </div>
@@ -61,11 +61,9 @@
     <script src="static/js/bootstrap.min.js"></script>
 
 <script>
-$(document).ready(function(){
-  $('#submit_pun').click(function(){
-      $('.alert').show()
-  })
-});
+function show_pun() {
+  alert("You sent a pun! Go ahead and send another.")
+}
 </script>
 
 </body>
