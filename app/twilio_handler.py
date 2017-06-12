@@ -12,6 +12,7 @@ account_sid = os.environ.get('TWILIO_ACCOUNT_SID')
 auth_token  = os.environ.get('TWILIO_AUTH_TOKEN')
 
 client = Client(account_sid, auth_token)
+print os.environ
 
 def send_pun():
     pun = puns.generate_random_pun()
